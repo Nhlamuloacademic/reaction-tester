@@ -1,0 +1,14 @@
+            body
+            {
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                background-color: darkgray;
+            }
+            .circle
+            {
+                width: 200px;
+                height: 200px;
+                background-color:tomato;
+                display: none;
+                position: relative;
+
+            }
